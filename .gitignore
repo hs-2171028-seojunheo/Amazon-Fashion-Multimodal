@@ -6,6 +6,7 @@ images/
 
 # Model weights
 *.pth
+best_colab_targeted_dropout_model_tf*
 
 # Python environment
 __pycache__/
